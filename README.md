@@ -1,15 +1,4 @@
-# Node Document Generator/Validator :sunglasses:
- 
-- API em node que gera e valida cpf/cnpj
-
-## Estrelinha! :star:
-
-Se esse projeto te ajudou em alguma coisa, taquele pau na estrelinha \o/
-
-## Para rodar esse projeto, você vai precisar das seguintes ferramentas :exclamation:
-
-- Visual Studio Code or another editor
-- Node 8+
+## API em node que gera e valida cpf/cnpj
 
 ## Descrição :books:
 
@@ -27,5 +16,4 @@ Se esse projeto te ajudou em alguma coisa, taquele pau na estrelinha \o/
   {"cnpj":"77059769000100"} ou {"cpf": "60415123119"}
 ```
   
-  ***Ambiente do Azure Desativado!!*** 🤯
   
